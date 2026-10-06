@@ -1,6 +1,4 @@
-<img src="./banner-light.svg#gh-light-mode-only" width="100%" alt="Ashmita Das — AI & Machine Learning">
-
-<img src="./banner-dark.svg#gh-dark-mode-only" width="100%" alt="Ashmita Das — AI & Machine Learning">
+<img src="./banner.svg" width="100%" alt="Ashmita Das — B.Tech CSE, AI & Machine Learning, SRM IST. Core: machine learning, deep learning, computer vision. Focus: generative AI, LLMs, agentic AI, open source.">
 
 <br>
 
@@ -9,9 +7,7 @@ AI/ML through research, real products, and open source.
 
 <br>
 
-<img src="./stack-light.svg#gh-light-mode-only" width="100%" alt="AI and software development stack">
-
-<img src="./stack-dark.svg#gh-dark-mode-only" width="100%" alt="AI and software development stack">
+<img src="./stack.svg" width="100%" alt="Stack — models: Python, PyTorch, TensorFlow, scikit-learn, OpenCV, YOLO, Hugging Face. Shipping: Java, JavaScript, React, FastAPI, Node.js, SQL, Git, GitHub.">
 
 <br>
 
